@@ -1,9 +1,8 @@
-# Who are we?
+# What we do?
+We are an organization dedicated to high level sh*t.
 
-"We" are a tech organization dedicated to low level development.
+# What is this for?
+This is used to store [my](https://github.com/westillthinking) other projects that arent C/C++/C# on my account.
 
-# Projects
-Here, you can find things like brainlack and other low level projects! Hopefully you enjoy the projects.
-
-# sponsor?
-No we will not sponsor you. We will also refuse to do things for money. You developers deserve to get everything for free.
+# Can I join?
+Depends. Are you a skilled developer or engineer? Are you good with high level languages? If yes, just send my a message on Discord at: .stillinthelimbo
